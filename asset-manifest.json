@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "./static/css/main.073c9b0a.css",
-    "main.js": "./static/js/main.8e6ef49a.js",
+    "main.js": "./static/js/main.051eaa97.js",
     "static/js/787.e01543d8.chunk.js": "./static/js/787.e01543d8.chunk.js",
     "static/media/astiroids_logo.png": "./static/media/astiroids_logo.f6be20039d795b4ac123.png",
     "static/media/hoodie.jpeg": "./static/media/hoodie.260bebc805f197f30a9a.jpeg",
     "index.html": "./index.html",
     "main.073c9b0a.css.map": "./static/css/main.073c9b0a.css.map",
-    "main.8e6ef49a.js.map": "./static/js/main.8e6ef49a.js.map",
+    "main.051eaa97.js.map": "./static/js/main.051eaa97.js.map",
     "787.e01543d8.chunk.js.map": "./static/js/787.e01543d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.8e6ef49a.js"
+    "static/js/main.051eaa97.js"
   ]
 }
